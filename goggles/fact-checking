@@ -1,0 +1,13 @@
+! name: EFCSN/IFCN Certified Fact-Checkers
+! public: true
+! author: Pavel Bannikov
+! avatar: #1a6bbf
+
+$boost=3,site=fullfact.org        ! Full Fact (UK) — EFCSN
+$boost=3,site=correctiv.org       ! CORRECTIV (Germany) — EFCSN
+$boost=3,site=provereno.media     ! Provereno Media — EFCSN
+$boost=3,site=factcheck.ge        ! FactCheck Georgia — EFCSN
+...
+$boost=2,site=factcheck.org       ! FactCheck.org (USA) — IFCN
+$boost=2,site=politifact.com      ! PolitiFact (USA) — IFCN
+$boost=2,site=africacheck.org     ! Africa Check — IFCN
