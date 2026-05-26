@@ -4,8 +4,7 @@
 ! author: Pavel Bannikov
 ! avatar: #1a6fbf
 
-! --- GLOBAL RULE: downrank everything else ---
-$downrank=3
+$boost=4,site=provereno.media
 
 ! --- EFCSN + IFCN certified sources (boost=3) ---
 $boost=3,site=15min.lt
@@ -126,7 +125,6 @@ $boost=3,site=politifact.com
 $boost=3,site=poynter.org
 $boost=3,site=pravda.org.pl
 $boost=3,site=pressone.ph
-$boost=3,site=provereno.media
 $boost=3,site=raskrikavanje.rs
 $boost=3,site=raskrikovanje.rs
 $boost=3,site=raskrinkavanje.ba
@@ -192,3 +190,6 @@ $boost=2,site=univision.com
 
 ! --- Large outlets with occasional fact-checking (boost=1) ---
 $boost=1,site=washingtonpost.com
+
+! --- GLOBAL RULE: downrank everything else ---
+$downrank=3
