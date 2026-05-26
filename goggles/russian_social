@@ -1,0 +1,75 @@
+! name: Russian Social Networks & Forums (SOCMINT)
+! description: Prioritizes Russian social media, forums, video platforms, and MAX messenger analytics tools for OSINT and SOCMINT research. Boosts VK, OK.ru, Telegram, Rutube, TenChat, Dzen, Mail.ru, Kinopoisk, LiveJournal, Pikabu, Fishki, and MAX ecosystem catalogs.
+! public: false
+! author: Pavel Bannikov
+! avatar: https://cdn.simpleicons.org/brave
+
+! ============================================================
+! TIER 1 — Основные российские соцсети (высший приоритет)
+! ============================================================
+
+$boost=10,site=vk.com
+$boost=10,site=vkontakte.ru
+$boost=10,site=ok.ru
+$boost=10,site=odnoklassniki.ru
+$boost=10,site=t.me
+$boost=10,site=telegram.me
+$boost=9,site=rutube.ru
+$boost=9,site=tenchat.ru
+$boost=9,site=dzen.ru
+$boost=9,site=zen.yandex.ru
+$boost=9,site=mail.ru
+
+! ============================================================
+! TIER 2 — Развлечения, блоги, форумы
+! ============================================================
+
+$boost=8,site=kinopoisk.ru
+$boost=8,site=livejournal.com
+$boost=8,site=lj.rossia.org
+$boost=8,site=pikabu.ru
+$boost=8,site=fishki.net
+
+! ============================================================
+! TIER 3 — Каталоги и аналитика мессенджера MAX
+! ============================================================
+
+$boost=7,site=mxstat.ru
+$boost=7,site=listmax.ru
+$boost=7,site=max-platform.ru
+$boost=6,site=maxradar.ru
+$boost=6,site=maxdash.ru
+$boost=6,site=maxframe.ru
+
+! ============================================================
+! TIER 4 — Смежные российские платформы (бонус для SOCMINT)
+! ============================================================
+
+$boost=6,site=yandex.ru
+$boost=6,site=vc.ru
+$boost=6,site=habr.com
+$boost=5,site=drive2.ru
+$boost=5,site=auto.ru
+$boost=5,site=avito.ru
+$boost=5,site=2gis.ru
+$boost=5,site=sports.ru
+$boost=5,site=sostav.ru
+
+! ============================================================
+! ПОНИЖЕНИЕ — Нежелательные источники для SOCMINT-задач
+! ============================================================
+
+$downrank=8,site=pinterest.com
+$downrank=8,site=quora.com
+$downrank=5,site=reddit.com
+$downrank=5,site=medium.com
+$downrank=3,site=twitter.com
+$downrank=3,site=x.com
+
+! ============================================================
+! ИСКЛЮЧЕНИЕ — SEO-мусор и нерелевантный контент
+! ============================================================
+
+/buy-now/$discard
+/sponsored-content/$discard
+/affiliate/$discard
