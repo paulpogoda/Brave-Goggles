@@ -1,7 +1,7 @@
 ! name: Russian Social Networks & Forums (SOCMINT)
 ! description: Prioritizes Russian social media, forums, video platforms, and MAX messenger analytics tools for OSINT and SOCMINT research. Boosts VK, OK.ru, Telegram, Rutube, TenChat, Dzen, Mail.ru, Kinopoisk, LiveJournal, Pikabu, Fishki, and MAX ecosystem catalogs.
-! public: false
-! author: Pavel Bannikov
+! public: true
+! author: Pavel Pogoda Bannikov
 ! avatar: https://cdn.simpleicons.org/brave
 
 ! ============================================================
