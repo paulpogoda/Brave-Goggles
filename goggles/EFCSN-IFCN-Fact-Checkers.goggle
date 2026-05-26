@@ -4,6 +4,7 @@
 ! author: Pavel Bannikov
 ! avatar: #1a6fbf
 
+! --- Creator (boost=4) ---
 $boost=4,site=provereno.media
 
 ! --- EFCSN + IFCN certified sources (boost=3) ---
@@ -29,8 +30,6 @@ $boost=3,site=colombiacheck.com
 $boost=3,site=correctiv.org
 $boost=3,site=cotejo.info
 $boost=3,site=data-check.org
-$boost=3,site=delfi.lt
-$boost=3,site=delfi.lv
 $boost=3,site=demagog.cz
 $boost=3,site=demagog.org.pl
 $boost=3,site=demagog.sk
@@ -42,7 +41,6 @@ $boost=3,site=ecuadorchequea.com
 $boost=3,site=efectococuyo.com
 $boost=3,site=elezafact.cd
 $boost=3,site=ellinikahoaxes.gr
-$boost=3,site=epl.delfi.ee
 $boost=3,site=facta.news
 $boost=3,site=factcheck.afp.com
 $boost=3,site=factcheck.bg
@@ -169,6 +167,9 @@ $boost=3,site=youturn.in
 ! --- Major media with fact-check sections (boost=2) ---
 $boost=2,site=ansa.it
 $boost=2,site=br.de
+$boost=2,site=delfi.lt
+$boost=2,site=delfi.lv
+$boost=3,site=epl.delfi.ee
 $boost=2,site=dpa.com
 $boost=2,site=dw.com
 $boost=2,site=efe.com
