@@ -1,9 +1,7 @@
 ! name: Kazakhstan OSINT & Verified Sources
-! description: Prioritizes Kazakhstani government databases, independent media, human rights organizations, UN/Statista data, and OSINT sources for Kazakhstan investigations. Created for OSINT investigators and fact-checkers.
 ! public: true
 ! author: Pavel Bannikov
 ! avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/32px-Flag_of_Kazakhstan.svg.png
-! homepage: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
 
 $boost=10, site=egov.kz
 $boost=10, site=data.egov.kz
