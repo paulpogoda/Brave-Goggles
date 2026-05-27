@@ -24,22 +24,12 @@ $boost=8, site=akorda.kz
 $boost=8, site=minfinance.gov.kz
 $boost=8, site=gov.kz
 
-$boost=10, site=ria.kz
 $boost=10, site=vlast.kz
 $boost=10, site=informburo.kz
 $boost=10, site=factcheck.kz
-$boost=10, site=kloop.media
-$boost=10, site=rferl.org
 $boost=10, site=azattyq.org
 $boost=10, site=cabar.asia
-$boost=8, site=tengrinews.kz
-$boost=8, site=kt.kz
-$boost=8, site=zakon.kz
 $boost=8, site=time.kz
-$boost=8, site=total.kz
-$boost=8, site=kapital.kz
-$boost=8, site=forbes.kz
-$boost=8, site=kursiv.media
 
 $boost=10, site=hrw.org
 $boost=10, site=amnesty.org
@@ -97,7 +87,7 @@ $boost=8, site=occrp.org
 $boost=10, site=bellingcat.com
 $boost=8, site=globalwitness.org
 $boost=8, site=globalintegrity.org
-$boost=8, site=knowledgehub.transparency.org
+$boost=8, site=transparency.org
 
 $downrank=10, site=mk.ru
 $downrank=10, site=riafan.ru
@@ -105,7 +95,7 @@ $downrank=10, site=regnum.ru
 $downrank=10, site=news.ru
 $downrank=10, site=lenta.ru
 $downrank=8, site=sputniknews.kz
-$downrank=8, site=russian.rt.com
+$downrank=8, site=rt.com
 $downrank=8, site=tass.ru
 $downrank=8, site=ren.tv
 $downrank=8, site=life.ru
