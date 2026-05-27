@@ -1,0 +1,111 @@
+! name: Kazakhstan OSINT & Verified Sources
+! description: Prioritizes Kazakhstani government databases, independent media, human rights organizations, UN/Statista data, and OSINT sources for Kazakhstan investigations. Created for OSINT investigators and fact-checkers.
+! public: true
+! author: Pavel Bannikov
+! avatar: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/32px-Flag_of_Kazakhstan.svg.png
+! homepage: https://github.com/paulpogoda/OSINT-Tools-Kazakhstan
+
+$boost=10, site=egov.kz
+$boost=10, site=data.egov.kz
+$boost=10, site=kgd.gov.kz
+$boost=10, site=goszakup.gov.kz
+$boost=10, site=sud.gov.kz
+$boost=10, site=stat.gov.kz
+$boost=10, site=adilet.gov.kz
+$boost=10, site=aisoip.adilet.gov.kz
+$boost=10, site=aisgzk.kz
+$boost=10, site=map.gov4c.kz
+$boost=10, site=opi.dfo.kz
+$boost=10, site=kase.kz
+$boost=10, site=qamqor.gov.kz
+$boost=8, site=mfa.gov.kz
+$boost=8, site=primeminister.kz
+$boost=8, site=akorda.kz
+$boost=8, site=minfinance.gov.kz
+$boost=8, site=gov.kz
+
+$boost=10, site=ria.kz
+$boost=10, site=vlast.kz
+$boost=10, site=informburo.kz
+$boost=10, site=factcheck.kz
+$boost=10, site=kloop.media
+$boost=10, site=rferl.org
+$boost=10, site=azattyq.org
+$boost=10, site=cabar.asia
+$boost=8, site=tengrinews.kz
+$boost=8, site=kt.kz
+$boost=8, site=zakon.kz
+$boost=8, site=time.kz
+$boost=8, site=total.kz
+$boost=8, site=kapital.kz
+$boost=8, site=forbes.kz
+$boost=8, site=kursiv.media
+
+$boost=10, site=hrw.org
+$boost=10, site=amnesty.org
+$boost=10, site=freedomhouse.org
+$boost=10, site=rsf.org
+$boost=10, site=article19.org
+$boost=10, site=cpj.org
+$boost=10, site=frontlinedefenders.org
+$boost=10, site=civicus.org
+$boost=10, site=adilsoz.kz
+$boost=10, site=medianet.kz
+$boost=8, site=icj.org
+$boost=8, site=omct.org
+$boost=8, site=iphronline.org
+$boost=8, site=humanrightsdefenders.net
+$boost=8, site=monitoring.kz
+$boost=8, site=bureau.kz
+
+$boost=10, site=un.org
+$boost=10, site=ohchr.org
+$boost=10, site=undp.org
+$boost=10, site=unhcr.org
+$boost=10, site=unicef.org
+$boost=10, site=unodc.org
+$boost=10, site=unfpa.org
+$boost=10, site=data.worldbank.org
+$boost=10, site=imf.org
+$boost=10, site=statista.com
+$boost=10, site=transparency.org
+$boost=10, site=osce.org
+$boost=8, site=unece.org
+$boost=8, site=oecd.org
+$boost=8, site=adb.org
+$boost=8, site=ebrd.com
+
+$boost=10, site=kompra.kz
+$boost=10, site=pk.adata.kz
+$boost=10, site=pk.uchet.kz
+$boost=10, site=fa-fa.kz
+$boost=10, site=rupep.org
+$boost=10, site=aster.kz
+$boost=9, site=avto.adata.kz
+$boost=9, site=spravochnik109.link
+$boost=9, site=phonebookoftheworld.com
+$boost=9, site=whois.kz
+$boost=9, site=nic.kz
+$boost=9, site=hoster.kz
+$boost=9, site=ps.kz
+$boost=8, site=opensanctions.org
+$boost=8, site=opencorporates.com
+$boost=8, site=openownership.org
+$boost=8, site=icij.org
+$boost=8, site=occrp.org
+
+$boost=10, site=bellingcat.com
+$boost=8, site=globalwitness.org
+$boost=8, site=globalintegrity.org
+$boost=8, site=knowledgehub.transparency.org
+
+$downrank=10, site=mk.ru
+$downrank=10, site=riafan.ru
+$downrank=10, site=regnum.ru
+$downrank=10, site=news.ru
+$downrank=10, site=lenta.ru
+$downrank=8, site=sputniknews.kz
+$downrank=8, site=russian.rt.com
+$downrank=8, site=tass.ru
+$downrank=8, site=ren.tv
+$downrank=8, site=life.ru
