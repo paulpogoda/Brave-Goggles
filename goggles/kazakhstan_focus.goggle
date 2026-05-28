@@ -3,6 +3,7 @@
 ! public: true
 ! author: Pavel Bannikov
 ! avatar: #1a6fbf
+
 $boost=10,site=egov.kz
 $boost=10,site=data.egov.kz
 $boost=10,site=kgd.gov.kz
