@@ -3,7 +3,6 @@
 ! public: true
 ! author: Pavel Bannikov
 ! avatar: #1a6fbf
-
 $boost=10,site=egov.kz
 $boost=10,site=data.egov.kz
 $boost=10,site=kgd.gov.kz
@@ -22,14 +21,12 @@ $boost=8,site=primeminister.kz
 $boost=8,site=akorda.kz
 $boost=8,site=minfinance.gov.kz
 $boost=8,site=gov.kz
-
 $boost=10,site=vlast.kz
 $boost=10,site=informburo.kz
 $boost=10,site=factcheck.kz
 $boost=10,site=azattyq.org
 $boost=10,site=cabar.asia
 $boost=8,site=time.kz
-
 $boost=10,site=hrw.org
 $boost=10,site=amnesty.org
 $boost=10,site=freedomhouse.org
@@ -46,7 +43,6 @@ $boost=8,site=iphronline.org
 $boost=8,site=humanrightsdefenders.net
 $boost=8,site=monitoring.kz
 $boost=8,site=bureau.kz
-
 $boost=10,site=un.org
 $boost=10,site=ohchr.org
 $boost=10,site=undp.org
@@ -63,7 +59,6 @@ $boost=8,site=unece.org
 $boost=8,site=oecd.org
 $boost=8,site=adb.org
 $boost=8,site=ebrd.com
-
 $boost=10,site=kompra.kz
 $boost=10,site=pk.adata.kz
 $boost=10,site=pk.uchet.kz
@@ -82,8 +77,6 @@ $boost=8,site=opencorporates.com
 $boost=8,site=openownership.org
 $boost=8,site=icij.org
 $boost=8,site=occrp.org
-
 $boost=10,site=bellingcat.com
 $boost=8,site=globalwitness.org
 $boost=8,site=globalintegrity.org
-$boost=8,site=transparency.org
