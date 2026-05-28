@@ -86,14 +86,3 @@ $boost=10,site=bellingcat.com
 $boost=8,site=globalwitness.org
 $boost=8,site=globalintegrity.org
 $boost=8,site=transparency.org
-
-$downrank=10,site=mk.ru
-$downrank=10,site=riafan.ru
-$downrank=10,site=regnum.ru
-$downrank=10,site=news.ru
-$downrank=10,site=lenta.ru
-$downrank=8,site=sputniknews.kz
-$downrank=8,site=rt.com
-$downrank=8,site=tass.ru
-$downrank=8,site=ren.tv
-$downrank=8,site=life.ru
